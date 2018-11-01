@@ -1,0 +1,6 @@
+.countdown {
+    display: flex;
+}
+.countdown__item {
+    padding: 5px;
+}
